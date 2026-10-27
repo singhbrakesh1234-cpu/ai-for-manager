@@ -1,0 +1,16 @@
+category,unit,kg_per_unit,price,best_storage,worse_storage,rate,shelf_life_best
+Milk,1 L pack,1.0,62,fridge,fridge,0.22,3
+Curd,400 g tub,0.4,45,fridge,fridge,0.08,6
+Paneer,200 g pack,0.2,95,fridge,fridge,0.04,4
+Bread,400 g loaf,0.4,45,fridge,pantry,0.07,6
+Eggs,6 eggs,0.36,48,fridge,pantry,0.08,18
+Bananas,6 bananas,0.7,50,pantry,pantry,0.06,4
+Apples,1 kg,1.0,180,fridge,pantry,0.03,20
+Tomatoes,1 kg,1.0,40,fridge,pantry,0.06,9
+Leafy greens,250 g bunch,0.25,30,fridge,fridge,0.07,3
+Coriander,100 g bunch,0.1,15,fridge,pantry,0.06,5
+Onions,1 kg,1.0,35,pantry,pantry,0.07,30
+Chicken,500 g,0.5,160,freezer,fridge,0.04,60
+Cheese,200 g,0.2,120,fridge,fridge,0.02,25
+Snacks,1 pack,0.2,50,pantry,pantry,0.05,90
+Rice & atta,5 kg bag,5.0,300,pantry,pantry,0.006,180
